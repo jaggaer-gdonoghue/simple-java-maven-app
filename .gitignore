@@ -13,3 +13,5 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 .idea
+
+# Test comment to show Jenkins triggering on a code change
